@@ -10,3 +10,7 @@ h2{text-align: center;
 body{
     background-color: rgb(206, 217, 226);
 }
+
+img{align-items: center;
+    width: 100px;
+}
