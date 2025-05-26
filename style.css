@@ -1,4 +1,13 @@
-h1,h2{text-align: center;
+h1{text-align: center;
 border-color:
 border-style:dashed;
   }
+
+h2{text-align: center;
+border-color:
+border-style:dashed;
+}
+
+body{
+    background-color: rgb(206, 217, 226);
+}
